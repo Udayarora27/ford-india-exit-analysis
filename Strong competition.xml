@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">brand</Data></Cell>
+			<Cell><Data ss:Type="String">model</Data></Cell>
+			<Cell><Data ss:Type="String">units_sold</Data></Cell>
+			<Cell><Data ss:Type="String">estimated_revenue_million_usd</Data></Cell>
+			<Cell><Data ss:Type="String">avg_price_per_unit_usd</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1997</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">800</Data></Cell>
+			<Cell><Data ss:Type="Number">100000</Data></Cell>
+			<Cell><Data ss:Type="Number">400.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1998</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">Zen</Data></Cell>
+			<Cell><Data ss:Type="Number">120000</Data></Cell>
+			<Cell><Data ss:Type="Number">540.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4500.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Santro</Data></Cell>
+			<Cell><Data ss:Type="Number">80000</Data></Cell>
+			<Cell><Data ss:Type="Number">400.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="String">Indica</Data></Cell>
+			<Cell><Data ss:Type="Number">70000</Data></Cell>
+			<Cell><Data ss:Type="Number">315.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4500.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2001</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Accent</Data></Cell>
+			<Cell><Data ss:Type="Number">60000</Data></Cell>
+			<Cell><Data ss:Type="Number">360.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2002</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">WagonR</Data></Cell>
+			<Cell><Data ss:Type="Number">95000</Data></Cell>
+			<Cell><Data ss:Type="Number">494.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5200.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2003</Data></Cell>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="String">Indigo</Data></Cell>
+			<Cell><Data ss:Type="Number">80000</Data></Cell>
+			<Cell><Data ss:Type="Number">384.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4800.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2004</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Getz</Data></Cell>
+			<Cell><Data ss:Type="Number">50000</Data></Cell>
+			<Cell><Data ss:Type="Number">310.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6200.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2005</Data></Cell>
+			<Cell><Data ss:Type="String">Honda</Data></Cell>
+			<Cell><Data ss:Type="String">City</Data></Cell>
+			<Cell><Data ss:Type="Number">45000</Data></Cell>
+			<Cell><Data ss:Type="Number">360.00</Data></Cell>
+			<Cell><Data ss:Type="Number">8000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2006</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">Swift</Data></Cell>
+			<Cell><Data ss:Type="Number">110000</Data></Cell>
+			<Cell><Data ss:Type="Number">550.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2007</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">i10</Data></Cell>
+			<Cell><Data ss:Type="Number">90000</Data></Cell>
+			<Cell><Data ss:Type="Number">468.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5200.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2008</Data></Cell>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="String">Nano</Data></Cell>
+			<Cell><Data ss:Type="Number">60000</Data></Cell>
+			<Cell><Data ss:Type="Number">150.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2500.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2009</Data></Cell>
+			<Cell><Data ss:Type="String">Volkswagen</Data></Cell>
+			<Cell><Data ss:Type="String">Polo</Data></Cell>
+			<Cell><Data ss:Type="Number">40000</Data></Cell>
+			<Cell><Data ss:Type="Number">280.00</Data></Cell>
+			<Cell><Data ss:Type="Number">7000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2010</Data></Cell>
+			<Cell><Data ss:Type="String">Ford</Data></Cell>
+			<Cell><Data ss:Type="String">Figo</Data></Cell>
+			<Cell><Data ss:Type="Number">75000</Data></Cell>
+			<Cell><Data ss:Type="Number">450.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2011</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Eon</Data></Cell>
+			<Cell><Data ss:Type="Number">85000</Data></Cell>
+			<Cell><Data ss:Type="Number">408.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4800.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="String">Renault</Data></Cell>
+			<Cell><Data ss:Type="String">Duster</Data></Cell>
+			<Cell><Data ss:Type="Number">65000</Data></Cell>
+			<Cell><Data ss:Type="Number">650.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="String">Honda</Data></Cell>
+			<Cell><Data ss:Type="String">Amaze</Data></Cell>
+			<Cell><Data ss:Type="Number">70000</Data></Cell>
+			<Cell><Data ss:Type="Number">630.00</Data></Cell>
+			<Cell><Data ss:Type="Number">9000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">Celerio</Data></Cell>
+			<Cell><Data ss:Type="Number">90000</Data></Cell>
+			<Cell><Data ss:Type="Number">450.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Creta</Data></Cell>
+			<Cell><Data ss:Type="Number">80000</Data></Cell>
+			<Cell><Data ss:Type="Number">1040.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="String">Tiago</Data></Cell>
+			<Cell><Data ss:Type="Number">70000</Data></Cell>
+			<Cell><Data ss:Type="Number">385.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5500.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="String">Kia</Data></Cell>
+			<Cell><Data ss:Type="String">Seltos</Data></Cell>
+			<Cell><Data ss:Type="Number">60000</Data></Cell>
+			<Cell><Data ss:Type="Number">960.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="String">Swift</Data></Cell>
+			<Cell><Data ss:Type="Number">145000</Data></Cell>
+			<Cell><Data ss:Type="Number">870.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="String">Venue</Data></Cell>
+			<Cell><Data ss:Type="Number">82000</Data></Cell>
+			<Cell><Data ss:Type="Number">984.00</Data></Cell>
+			<Cell><Data ss:Type="Number">12000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Kia</Data></Cell>
+			<Cell><Data ss:Type="String">Sonet</Data></Cell>
+			<Cell><Data ss:Type="Number">75000</Data></Cell>
+			<Cell><Data ss:Type="Number">1050.00</Data></Cell>
+			<Cell><Data ss:Type="Number">14000.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="String">Nexon</Data></Cell>
+			<Cell><Data ss:Type="Number">95000</Data></Cell>
+			<Cell><Data ss:Type="Number">1235.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13000.00</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

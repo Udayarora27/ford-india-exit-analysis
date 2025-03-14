@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">brand</Data></Cell>
+			<Cell><Data ss:Type="String">total_revenue_million_usd</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Ford</Data></Cell>
+			<Cell><Data ss:Type="Number">23139.08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hyundai</Data></Cell>
+			<Cell><Data ss:Type="Number">3970.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Maruti</Data></Cell>
+			<Cell><Data ss:Type="Number">3304.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tata</Data></Cell>
+			<Cell><Data ss:Type="Number">2469.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kia</Data></Cell>
+			<Cell><Data ss:Type="Number">2010.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Honda</Data></Cell>
+			<Cell><Data ss:Type="Number">990.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Renault</Data></Cell>
+			<Cell><Data ss:Type="Number">650.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ford</Data></Cell>
+			<Cell><Data ss:Type="Number">450.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Volkswagen</Data></Cell>
+			<Cell><Data ss:Type="Number">280.00</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

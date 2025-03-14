@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">model</Data></Cell>
+			<Cell><Data ss:Type="String">total_units_sold</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Escort</Data></Cell>
+			<Cell><Data ss:Type="Number">15866</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ikon</Data></Cell>
+			<Cell><Data ss:Type="Number">124653</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fiesta</Data></Cell>
+			<Cell><Data ss:Type="Number">258816</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Figo</Data></Cell>
+			<Cell><Data ss:Type="Number">535200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Endeavour</Data></Cell>
+			<Cell><Data ss:Type="Number">20370</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EcoSport</Data></Cell>
+			<Cell><Data ss:Type="Number">428800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Aspire</Data></Cell>
+			<Cell><Data ss:Type="Number">117000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Freestyle</Data></Cell>
+			<Cell><Data ss:Type="Number">41900</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

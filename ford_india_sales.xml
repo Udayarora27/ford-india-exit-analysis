@@ -1,0 +1,725 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882"
+ xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Uday Arora</LastAuthor>
+  <LastSaved>2025-03-14T19:24:58Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8676</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s75">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="90" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="109.8"/>
+   <Column ss:Index="7" ss:Width="67.2"/>
+   <Column ss:Width="84"/>
+   <Column ss:Width="183.6"/>
+   <Column ss:Width="67.2"/>
+   <Column ss:Width="183.6"/>
+   <Row>
+    <Cell><Data ss:Type="String">year</Data></Cell>
+    <Cell><Data ss:Type="String">model</Data></Cell>
+    <Cell><Data ss:Type="String">units_sold</Data></Cell>
+    <Cell><Data ss:Type="String">estimated_revenue_million_usd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Escort</Data></Cell>
+    <Cell><Data ss:Type="Number">5428</Data></Cell>
+    <Cell><Data ss:Type="Number">65.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Escort</Data></Cell>
+    <Cell><Data ss:Type="Number">10438</Data></Cell>
+    <Cell><Data ss:Type="Number">125.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">14681</Data></Cell>
+    <Cell><Data ss:Type="Number">176.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">15266</Data></Cell>
+    <Cell><Data ss:Type="Number">183.19</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Row Labels</Data></Cell>
+    <Cell><Data ss:Type="String">Sum of units_sold</Data></Cell>
+    <Cell><Data ss:Type="String">Sum of estimated_revenue_million_usd</Data></Cell>
+    <Cell><Data ss:Type="String">Row Labels</Data></Cell>
+    <Cell><Data ss:Type="String">Sum of estimated_revenue_million_usd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">18591</Data></Cell>
+    <Cell><Data ss:Type="Number">223.09</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">117000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1053</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">1997</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">65.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">19067</Data></Cell>
+    <Cell><Data ss:Type="Number">228.8</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">428800</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">5145.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">5428</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">65.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">26176</Data></Cell>
+    <Cell><Data ss:Type="Number">314.11</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">20370</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">712.95</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">1998</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">125.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell><Data ss:Type="Number">30872</Data></Cell>
+    <Cell><Data ss:Type="Number">370.46</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Escort</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">15866</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">190.4</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">10438</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">125.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">43352</Data></Cell>
+    <Cell><Data ss:Type="Number">476.87</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">258816</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2846.9799999999996</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">1999</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">176.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">42364</Data></Cell>
+    <Cell><Data ss:Type="Number">466</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Figo</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">535200</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">4281.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">14681</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">176.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">48237</Data></Cell>
+    <Cell><Data ss:Type="Number">530.61</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Freestyle</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">41900</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">398.05</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">183.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">29488</Data></Cell>
+    <Cell><Data ss:Type="Number">324.37</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Ikon</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">124653</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1495.8200000000002</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">15266</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">183.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">29488</Data></Cell>
+    <Cell><Data ss:Type="Number">324.37</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Grand Total</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1542605</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">16124.4</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">2001</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">223.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">60000</Data></Cell>
+    <Cell><Data ss:Type="Number">480</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">18591</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">223.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">23887</Data></Cell>
+    <Cell><Data ss:Type="Number">262.76</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2002</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">228.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">70000</Data></Cell>
+    <Cell><Data ss:Type="Number">560</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">19067</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">228.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2003</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">314.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1270</Data></Cell>
+    <Cell><Data ss:Type="Number">44.45</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">26176</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">314.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">75000</Data></Cell>
+    <Cell><Data ss:Type="Number">600</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2004</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">370.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">30872</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">370.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2005</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">476.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">77000</Data></Cell>
+    <Cell><Data ss:Type="Number">616</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">43352</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">476.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">40000</Data></Cell>
+    <Cell><Data ss:Type="Number">480</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2006</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">466</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">12000</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">42364</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">466</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2007</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">530.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">52000</Data></Cell>
+    <Cell><Data ss:Type="Number">624</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">48237</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">530.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">43000</Data></Cell>
+    <Cell><Data ss:Type="Number">344</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2008</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">324.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">29488</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">324.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">52000</Data></Cell>
+    <Cell><Data ss:Type="Number">624</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2009</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">324.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">43000</Data></Cell>
+    <Cell><Data ss:Type="Number">344</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">29488</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">324.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2010</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">742.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">45000</Data></Cell>
+    <Cell><Data ss:Type="Number">540</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">23887</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">262.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">60000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">480</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">17000</Data></Cell>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2011</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">769.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1800</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1270</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">44.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">45000</Data></Cell>
+    <Cell><Data ss:Type="Number">540</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">15000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">30000</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">70000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">560</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">17000</Data></Cell>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2012</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">817.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1800</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">52.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">45000</Data></Cell>
+    <Cell><Data ss:Type="Number">540</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">15000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">165</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">32000</Data></Cell>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">75000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">18000</Data></Cell>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1280.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">2500</Data></Cell>
+    <Cell><Data ss:Type="Number">87.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">52.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">38000</Data></Cell>
+    <Cell><Data ss:Type="Number">456</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">12000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">132</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">25000</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">40000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">480</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">20000</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">77000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">616</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1800</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2014</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2041</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">38000</Data></Cell>
+    <Cell><Data ss:Type="Number">456</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">105</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">21000</Data></Cell>
+    <Cell><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">43000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">688</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">19000</Data></Cell>
+    <Cell><Data ss:Type="Number">171</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">52000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1248</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Freestyle</Data></Cell>
+    <Cell><Data ss:Type="Number">16000</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2015</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1700</Data></Cell>
+    <Cell><Data ss:Type="Number">59.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1800</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">126</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">36000</Data></Cell>
+    <Cell><Data ss:Type="Number">432</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">17000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">306</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">18000</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">30000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">480</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">16000</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">45000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1080</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Freestyle</Data></Cell>
+    <Cell><Data ss:Type="Number">15000</Data></Cell>
+    <Cell><Data ss:Type="Number">142.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2016</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1045.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1500</Data></Cell>
+    <Cell><Data ss:Type="Number">52.5</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">2500</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">87.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">34000</Data></Cell>
+    <Cell><Data ss:Type="Number">408</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">18000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">162</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">32000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">256</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">9000</Data></Cell>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">45000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">540</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Freestyle</Data></Cell>
+    <Cell><Data ss:Type="Number">10000</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">899</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+    <Cell><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1800</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">3800</Data></Cell>
+    <Cell><Data ss:Type="Number">45.6</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">20000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">180</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Figo</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+    <Cell><Data ss:Type="Number">9.6</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">25000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Aspire</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">38000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">456</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Freestyle</Data></Cell>
+    <Cell><Data ss:Type="Number">900</Data></Cell>
+    <Cell><Data ss:Type="Number">8.5500000000000007</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1006.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">800</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1700</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">59.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">16000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">152</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">19000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">171</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">21000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">168</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">38000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">456</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2019</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">915</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1500</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">52.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">15000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">142.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">16000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">144</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">18000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">144</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">36000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">432</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2020</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">706</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1200</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">9000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">10000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">175</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">34000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">408</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="Number">2021</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">100.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">800</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">900</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">8.5500000000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">1200</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">9.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s78"><Data ss:Type="Number">3800</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">45.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:StyleID="s72"><Data ss:Type="String">Grand Total</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">16124.4</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

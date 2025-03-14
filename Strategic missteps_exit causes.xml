@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">reason_category</Data></Cell>
+			<Cell><Data ss:Type="String">description</Data></Cell>
+			<Cell><Data ss:Type="String">impact_rating</Data></Cell>
+			<Cell><Data ss:Type="String">is_estimated</Data></Cell>
+			<Cell><Data ss:Type="String">source</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Market</Data></Cell>
+			<Cell><Data ss:Type="String">Low and declining market share compared to competitors like Maruti and Hyundai.</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Economic Times</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Economic</Data></Cell>
+			<Cell><Data ss:Type="String">High operating costs due to underutilized manufacturing capacity.</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Estimated from industry reports</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Strategic</Data></Cell>
+			<Cell><Data ss:Type="String">Shift in global strategy to focus on electric vehicles and profitable markets.</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">Ford Global Press Release</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Regulatory</Data></Cell>
+			<Cell><Data ss:Type="String">Frequent tax changes, including GST rollout challenges.</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Estimated from government data</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="String">Consumer Behavior</Data></Cell>
+			<Cell><Data ss:Type="String">Preference for affordable and fuel-efficient cars, Ford’s portfolio mismatched.</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">AutoCar India</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1953</Data></Cell>
+			<Cell><Data ss:Type="String">Political</Data></Cell>
+			<Cell><Data ss:Type="String">License Raj and political pressure forced exit during early post-independence era.</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Historical reports</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1953</Data></Cell>
+			<Cell><Data ss:Type="String">Political</Data></Cell>
+			<Cell><Data ss:Type="String">License Raj and political pressure forced exit during early post-independence era.</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Historical reports</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

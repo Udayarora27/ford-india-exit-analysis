@@ -1,0 +1,4100 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882"
+ xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Uday Arora</LastAuthor>
+  <LastSaved>2025-03-14T19:24:58Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8676</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s75">
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s76">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#44B3E1"/>
+   </Borders>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0E6F5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#44B3E1"/>
+   </Borders>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0E6F5" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s84">
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="207" ss:ExpandedRowCount="530" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Width="48.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="109.8" ss:Span="1"/>
+   <Column ss:Index="4" ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="75.600000000000009"/>
+   <Column ss:Width="183.6"/>
+   <Column ss:Width="49.2"/>
+   <Column ss:Width="60" ss:Span="6"/>
+   <Column ss:Index="17" ss:Width="65.400000000000006"/>
+   <Column ss:Width="49.2" ss:Span="14"/>
+   <Column ss:Index="33" ss:Width="60"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="42" ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="50" ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="66" ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="82" ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="37.800000000000004"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="37.800000000000004"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="37.800000000000004"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="122" ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6" ss:Span="3"/>
+   <Column ss:Index="132" ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="48.6" ss:Span="2"/>
+   <Column ss:Index="140" ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="146" ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="154" ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="48.6" ss:Span="2"/>
+   <Column ss:Index="164" ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="170" ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="48.6" ss:Span="1"/>
+   <Column ss:Index="178" ss:Width="46.2"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="48.6"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="48.6" ss:Span="2"/>
+   <Column ss:Index="188" ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="194" ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="45.599999999999994"/>
+   <Column ss:Width="43.199999999999996" ss:Span="1"/>
+   <Column ss:Index="202" ss:Width="46.2"/>
+   <Column ss:Width="43.199999999999996"/>
+   <Column ss:Width="77.399999999999991"/>
+   <Column ss:Width="66"/>
+   <Column ss:Width="51"/>
+   <Column ss:Width="59.4"/>
+   <Row>
+    <Cell><Data ss:Type="String">year</Data></Cell>
+    <Cell><Data ss:Type="String">country</Data></Cell>
+    <Cell><Data ss:Type="String">model</Data></Cell>
+    <Cell><Data ss:Type="String">units_sold</Data></Cell>
+    <Cell><Data ss:Type="String">estimated_revenue_million_usd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">74776</Data></Cell>
+    <Cell><Data ss:Type="Number">2175.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">75608</Data></Cell>
+    <Cell><Data ss:Type="Number">2950.68</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Sum of units_sold</Data></Cell>
+    <Cell><Data ss:Type="String">Column Labels</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">106545</Data></Cell>
+    <Cell><Data ss:Type="Number">4772.8999999999996</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Row Labels</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Grand Total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">153773</Data></Cell>
+    <Cell><Data ss:Type="Number">3151.27</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">804434</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">670506</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1098353</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1220218</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1654365</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1490286</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">686218</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">7624380</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">106702</Data></Cell>
+    <Cell><Data ss:Type="Number">3345.96</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">852218</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1211648</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1558229</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1028383</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">2252737</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1713995</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1458490</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">10075700</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">168586</Data></Cell>
+    <Cell><Data ss:Type="Number">5736.31</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">F-150</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1109508</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1844310</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1439503</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1246671</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1247101</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">757178</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1345284</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">8989555</Data></Cell>
+    <Cell ss:Index="19"><Data ss:Type="Number">1312505</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">123874</Data></Cell>
+    <Cell><Data ss:Type="Number">4639.58</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">602924</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1529621</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">995710</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">474180</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">987944</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1157554</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1720189</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">7468122</Data></Cell>
+    <Cell ss:Index="19" ss:Formula="=R[-1]C-8237879"><Data ss:Type="Number">-6925374</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">12217</Data></Cell>
+    <Cell><Data ss:Type="Number">453.17</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">Focus</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1223882</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1198094</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1217959</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1505029</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">790355</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1547553</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1615089</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">9097961</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">23430</Data></Cell>
+    <Cell><Data ss:Type="Number">430.9</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1716818</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1504749</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1697439</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1899071</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1305377</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1099673</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">1581464</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">10804591</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">82592</Data></Cell>
+    <Cell><Data ss:Type="Number">1932.82</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s72"><Data ss:Type="String">Grand Total</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">6309784</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">7958928</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">8007193</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">7373552</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">8237879</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">7766239</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">8406734</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">54060309</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">110872</Data></Cell>
+    <Cell><Data ss:Type="Number">2272.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">76913</Data></Cell>
+    <Cell><Data ss:Type="Number">3359.79</Data></Cell>
+    <Cell ss:Index="12"><Data ss:Type="String">Percentage</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">95081</Data></Cell>
+    <Cell><Data ss:Type="Number">3346.09</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">Australia</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">6309784</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">13.38663986701159</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Number">54060309</Data></Cell>
+    <Cell ss:Formula="=RC[-1]-6925374"><Data ss:Type="Number">47134935</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">197283</Data></Cell>
+    <Cell><Data ss:Type="Number">4930.3</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">7958928</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">16.885412062199727</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="String">Country</Data></Cell>
+    <Cell><Data ss:Type="String">estimated_revenue_million_usd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">84240</Data></Cell>
+    <Cell><Data ss:Type="Number">2305.65</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">China</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">8007193</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">16.987809572666219</Data></Cell>
+    <Cell ss:Formula="=(8007193/54060309)*100"><Data ss:Type="Number">14.811593104286548</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">203858.55999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">125550</Data></Cell>
+    <Cell><Data ss:Type="Number">2276.2199999999998</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">7373552</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">15.643496697301057</Data></Cell>
+    <Cell ss:Formula="=(7373552/54060309)*100"><Data ss:Type="Number">13.639492885621502</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">243155.31999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">68160</Data></Cell>
+    <Cell><Data ss:Type="Number">2206.41</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">8237879</Data></Cell>
+    <Cell ss:Formula="=(1312505/R[-4]C[3])*100"><Data ss:Type="Number">2.4278533073127644</Data></Cell>
+    <Cell ss:Formula="=(1312505/R[-4]C[3])*100"><Data ss:Type="Number">2.7845694493903514</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">261526.40999999995</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="Number">16124</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">107047</Data></Cell>
+    <Cell><Data ss:Type="Number">4490.3</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">7766239</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">16.476609122299628</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">232859.20000000007</Data></Cell>
+    <Cell ss:Formula="=AVERAGE(R[-1]C[1],RC[-1])"><Data ss:Type="Number">124491.60000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">17406</Data></Cell>
+    <Cell><Data ss:Type="Number">315.64</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s76"><Data ss:Type="String">United States</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">8406734</Data></Cell>
+    <Cell ss:Formula="=(RC[-1]/R14C16)*100"><Data ss:Type="Number">17.835463229131427</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">261414.06999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">104756</Data></Cell>
+    <Cell><Data ss:Type="Number">3654.41</Data></Cell>
+    <Cell ss:Index="12" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">99.643283857922398</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">243717.68000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">69956</Data></Cell>
+    <Cell><Data ss:Type="Number">3050.22</Data></Cell>
+    <Cell ss:Index="15"><Data ss:Type="Error">#VALUE!</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">264035.43999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">182196</Data></Cell>
+    <Cell><Data ss:Type="Number">7298.23</Data></Cell>
+    <Cell ss:Index="16" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">1710566.6799999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">32682</Data></Cell>
+    <Cell><Data ss:Type="Number">682.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">84459</Data></Cell>
+    <Cell><Data ss:Type="Number">3704.37</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Row Labels</Data></Cell>
+    <Cell><Data ss:Type="String">Sum of estimated_revenue_million_usd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">30574</Data></Cell>
+    <Cell><Data ss:Type="Number">1202.48</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Australia</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">203858.55999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">49393</Data></Cell>
+    <Cell><Data ss:Type="Number">1157.92</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">243155.31999999992</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">183426</Data></Cell>
+    <Cell><Data ss:Type="Number">6267.67</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">China</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">261526.40999999995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">52185</Data></Cell>
+    <Cell><Data ss:Type="Number">1624.57</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">232859.20000000007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">43503</Data></Cell>
+    <Cell><Data ss:Type="Number">911.3</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">261414.06999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">44521</Data></Cell>
+    <Cell><Data ss:Type="Number">1696.21</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">243717.68000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">179665</Data></Cell>
+    <Cell><Data ss:Type="Number">6481.77</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">United States</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">264035.43999999994</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">80018</Data></Cell>
+    <Cell><Data ss:Type="Number">2246.0300000000002</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s72"><Data ss:Type="String">Grand Total</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1710566.6799999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">37620</Data></Cell>
+    <Cell><Data ss:Type="Number">1465</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">168045</Data></Cell>
+    <Cell><Data ss:Type="Number">7453.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">192537</Data></Cell>
+    <Cell><Data ss:Type="Number">4666.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">132718</Data></Cell>
+    <Cell><Data ss:Type="Number">3966.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">71529</Data></Cell>
+    <Cell><Data ss:Type="Number">2198.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">42899</Data></Cell>
+    <Cell><Data ss:Type="Number">1531.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">128474</Data></Cell>
+    <Cell><Data ss:Type="Number">3767.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">182803</Data></Cell>
+    <Cell><Data ss:Type="Number">6874.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">8359</Data></Cell>
+    <Cell><Data ss:Type="Number">356.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">49217</Data></Cell>
+    <Cell><Data ss:Type="Number">1136.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">52463</Data></Cell>
+    <Cell><Data ss:Type="Number">1747.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">118324</Data></Cell>
+    <Cell><Data ss:Type="Number">4505.1899999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">182412</Data></Cell>
+    <Cell><Data ss:Type="Number">6637.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">101940</Data></Cell>
+    <Cell><Data ss:Type="Number">4543.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">83557</Data></Cell>
+    <Cell><Data ss:Type="Number">3193.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">99675</Data></Cell>
+    <Cell><Data ss:Type="Number">1837.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">30412</Data></Cell>
+    <Cell><Data ss:Type="Number">694.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">89363</Data></Cell>
+    <Cell><Data ss:Type="Number">2783.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">65273</Data></Cell>
+    <Cell><Data ss:Type="Number">2098.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">34343</Data></Cell>
+    <Cell><Data ss:Type="Number">849.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">16626</Data></Cell>
+    <Cell><Data ss:Type="Number">735.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">29819</Data></Cell>
+    <Cell><Data ss:Type="Number">1017.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">189617</Data></Cell>
+    <Cell><Data ss:Type="Number">3851.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">150031</Data></Cell>
+    <Cell><Data ss:Type="Number">3492.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">28765</Data></Cell>
+    <Cell><Data ss:Type="Number">1119.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">178697</Data></Cell>
+    <Cell><Data ss:Type="Number">5632.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">90601</Data></Cell>
+    <Cell><Data ss:Type="Number">3058.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">96741</Data></Cell>
+    <Cell><Data ss:Type="Number">2219.0500000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">66950</Data></Cell>
+    <Cell><Data ss:Type="Number">2332.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">43639</Data></Cell>
+    <Cell><Data ss:Type="Number">989.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">130249</Data></Cell>
+    <Cell><Data ss:Type="Number">5019.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">47960</Data></Cell>
+    <Cell><Data ss:Type="Number">1929.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">22575</Data></Cell>
+    <Cell><Data ss:Type="Number">842.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">105790</Data></Cell>
+    <Cell><Data ss:Type="Number">4758.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">7293</Data></Cell>
+    <Cell><Data ss:Type="Number">146.30000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">156531</Data></Cell>
+    <Cell><Data ss:Type="Number">3191.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">125559</Data></Cell>
+    <Cell><Data ss:Type="Number">4090.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">161705</Data></Cell>
+    <Cell><Data ss:Type="Number">5260.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">189012</Data></Cell>
+    <Cell><Data ss:Type="Number">4407.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">26768</Data></Cell>
+    <Cell><Data ss:Type="Number">784.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">191684</Data></Cell>
+    <Cell><Data ss:Type="Number">5042.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">138435</Data></Cell>
+    <Cell><Data ss:Type="Number">5846.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">124595</Data></Cell>
+    <Cell><Data ss:Type="Number">4368.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">48660</Data></Cell>
+    <Cell><Data ss:Type="Number">1673.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">20656</Data></Cell>
+    <Cell><Data ss:Type="Number">400.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">11219</Data></Cell>
+    <Cell><Data ss:Type="Number">264.72000000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">107874</Data></Cell>
+    <Cell><Data ss:Type="Number">3238.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">89563</Data></Cell>
+    <Cell><Data ss:Type="Number">1874.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">140403</Data></Cell>
+    <Cell><Data ss:Type="Number">4650.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">173583</Data></Cell>
+    <Cell><Data ss:Type="Number">7275.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">52265</Data></Cell>
+    <Cell><Data ss:Type="Number">1917.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">17519</Data></Cell>
+    <Cell><Data ss:Type="Number">591.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">116478</Data></Cell>
+    <Cell><Data ss:Type="Number">4559.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">137022</Data></Cell>
+    <Cell><Data ss:Type="Number">2726.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">96985</Data></Cell>
+    <Cell><Data ss:Type="Number">2306.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">123713</Data></Cell>
+    <Cell><Data ss:Type="Number">5252.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">47675</Data></Cell>
+    <Cell><Data ss:Type="Number">1962.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">95144</Data></Cell>
+    <Cell><Data ss:Type="Number">2628.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">120422</Data></Cell>
+    <Cell><Data ss:Type="Number">4805.4399999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">78823</Data></Cell>
+    <Cell><Data ss:Type="Number">2059.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">67367</Data></Cell>
+    <Cell><Data ss:Type="Number">1733.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">6292</Data></Cell>
+    <Cell><Data ss:Type="Number">123.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">48265</Data></Cell>
+    <Cell><Data ss:Type="Number">2091.1799999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">42632</Data></Cell>
+    <Cell><Data ss:Type="Number">891.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">129149</Data></Cell>
+    <Cell><Data ss:Type="Number">5384.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">147694</Data></Cell>
+    <Cell><Data ss:Type="Number">3728.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">41265</Data></Cell>
+    <Cell><Data ss:Type="Number">854.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">146481</Data></Cell>
+    <Cell><Data ss:Type="Number">5388.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">23856</Data></Cell>
+    <Cell><Data ss:Type="Number">912.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">40345</Data></Cell>
+    <Cell><Data ss:Type="Number">1558.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">128527</Data></Cell>
+    <Cell><Data ss:Type="Number">3071.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">177519</Data></Cell>
+    <Cell><Data ss:Type="Number">6568.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">74294</Data></Cell>
+    <Cell><Data ss:Type="Number">1523.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">156477</Data></Cell>
+    <Cell><Data ss:Type="Number">3823.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">153914</Data></Cell>
+    <Cell><Data ss:Type="Number">4285.2700000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">36784</Data></Cell>
+    <Cell><Data ss:Type="Number">1595.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">199754</Data></Cell>
+    <Cell><Data ss:Type="Number">3812.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">160291</Data></Cell>
+    <Cell><Data ss:Type="Number">4070.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">26886</Data></Cell>
+    <Cell><Data ss:Type="Number">870.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">20492</Data></Cell>
+    <Cell><Data ss:Type="Number">915.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">81616</Data></Cell>
+    <Cell><Data ss:Type="Number">1536.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">159097</Data></Cell>
+    <Cell><Data ss:Type="Number">6011</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">183796</Data></Cell>
+    <Cell><Data ss:Type="Number">3466.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">81371</Data></Cell>
+    <Cell><Data ss:Type="Number">3496.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">31158</Data></Cell>
+    <Cell><Data ss:Type="Number">1295.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">120533</Data></Cell>
+    <Cell><Data ss:Type="Number">2211.7800000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">69757</Data></Cell>
+    <Cell><Data ss:Type="Number">1661.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">188115</Data></Cell>
+    <Cell><Data ss:Type="Number">8106.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">117168</Data></Cell>
+    <Cell><Data ss:Type="Number">3172.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">169010</Data></Cell>
+    <Cell><Data ss:Type="Number">6160.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">132368</Data></Cell>
+    <Cell><Data ss:Type="Number">2817.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">49336</Data></Cell>
+    <Cell><Data ss:Type="Number">1846.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">188051</Data></Cell>
+    <Cell><Data ss:Type="Number">4671.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">129239</Data></Cell>
+    <Cell><Data ss:Type="Number">5531.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">160810</Data></Cell>
+    <Cell><Data ss:Type="Number">3984.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">83618</Data></Cell>
+    <Cell><Data ss:Type="Number">2756.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">159157</Data></Cell>
+    <Cell><Data ss:Type="Number">3255.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">126194</Data></Cell>
+    <Cell><Data ss:Type="Number">3970.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">6222</Data></Cell>
+    <Cell><Data ss:Type="Number">233.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">68049</Data></Cell>
+    <Cell><Data ss:Type="Number">2348.3000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">194151</Data></Cell>
+    <Cell><Data ss:Type="Number">7180.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">132531</Data></Cell>
+    <Cell><Data ss:Type="Number">4789.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">62664</Data></Cell>
+    <Cell><Data ss:Type="Number">1292.3800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">88710</Data></Cell>
+    <Cell><Data ss:Type="Number">2468.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">140983</Data></Cell>
+    <Cell><Data ss:Type="Number">2570.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">80155</Data></Cell>
+    <Cell><Data ss:Type="Number">2100.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">54900</Data></Cell>
+    <Cell><Data ss:Type="Number">1675.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">65727</Data></Cell>
+    <Cell><Data ss:Type="Number">1478.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">122944</Data></Cell>
+    <Cell><Data ss:Type="Number">3954.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">136767</Data></Cell>
+    <Cell><Data ss:Type="Number">3129.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">135433</Data></Cell>
+    <Cell><Data ss:Type="Number">4206.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">139361</Data></Cell>
+    <Cell><Data ss:Type="Number">5336.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">182016</Data></Cell>
+    <Cell><Data ss:Type="Number">4638.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">152262</Data></Cell>
+    <Cell><Data ss:Type="Number">3253.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">91581</Data></Cell>
+    <Cell><Data ss:Type="Number">3636.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">199136</Data></Cell>
+    <Cell><Data ss:Type="Number">5121.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">105497</Data></Cell>
+    <Cell><Data ss:Type="Number">2584.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">16420</Data></Cell>
+    <Cell><Data ss:Type="Number">401.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">18173</Data></Cell>
+    <Cell><Data ss:Type="Number">681.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">77366</Data></Cell>
+    <Cell><Data ss:Type="Number">3409.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">143743</Data></Cell>
+    <Cell><Data ss:Type="Number">6002.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">65237</Data></Cell>
+    <Cell><Data ss:Type="Number">2250.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">64752</Data></Cell>
+    <Cell><Data ss:Type="Number">2464.0100000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">193210</Data></Cell>
+    <Cell><Data ss:Type="Number">5463.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">81045</Data></Cell>
+    <Cell><Data ss:Type="Number">2653.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">169365</Data></Cell>
+    <Cell><Data ss:Type="Number">7382.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">55624</Data></Cell>
+    <Cell><Data ss:Type="Number">1196.03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">91285</Data></Cell>
+    <Cell><Data ss:Type="Number">2543.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">140434</Data></Cell>
+    <Cell><Data ss:Type="Number">3477.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">104429</Data></Cell>
+    <Cell><Data ss:Type="Number">4404.3999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">49126</Data></Cell>
+    <Cell><Data ss:Type="Number">938.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">93023</Data></Cell>
+    <Cell><Data ss:Type="Number">2211.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">177422</Data></Cell>
+    <Cell><Data ss:Type="Number">6700.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">150204</Data></Cell>
+    <Cell><Data ss:Type="Number">4650.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">115648</Data></Cell>
+    <Cell><Data ss:Type="Number">2723.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">127063</Data></Cell>
+    <Cell><Data ss:Type="Number">3718.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">144240</Data></Cell>
+    <Cell><Data ss:Type="Number">2885.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">6361</Data></Cell>
+    <Cell><Data ss:Type="Number">257.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">149590</Data></Cell>
+    <Cell><Data ss:Type="Number">3019.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">144429</Data></Cell>
+    <Cell><Data ss:Type="Number">5066.8599999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">13640</Data></Cell>
+    <Cell><Data ss:Type="Number">399.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">188355</Data></Cell>
+    <Cell><Data ss:Type="Number">5118.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">144549</Data></Cell>
+    <Cell><Data ss:Type="Number">2650.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">146534</Data></Cell>
+    <Cell><Data ss:Type="Number">3823.51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">129939</Data></Cell>
+    <Cell><Data ss:Type="Number">3911.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">22355</Data></Cell>
+    <Cell><Data ss:Type="Number">848.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">137696</Data></Cell>
+    <Cell><Data ss:Type="Number">2793.03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">197468</Data></Cell>
+    <Cell><Data ss:Type="Number">7876.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">191301</Data></Cell>
+    <Cell><Data ss:Type="Number">7307.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">134007</Data></Cell>
+    <Cell><Data ss:Type="Number">3741.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">76518</Data></Cell>
+    <Cell><Data ss:Type="Number">2881.51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">5758</Data></Cell>
+    <Cell><Data ss:Type="Number">117.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">163596</Data></Cell>
+    <Cell><Data ss:Type="Number">6674.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">46511</Data></Cell>
+    <Cell><Data ss:Type="Number">864.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">18023</Data></Cell>
+    <Cell><Data ss:Type="Number">809.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">59597</Data></Cell>
+    <Cell><Data ss:Type="Number">1646.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">112520</Data></Cell>
+    <Cell><Data ss:Type="Number">3822.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">56896</Data></Cell>
+    <Cell><Data ss:Type="Number">1911.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">115902</Data></Cell>
+    <Cell><Data ss:Type="Number">4846.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">109062</Data></Cell>
+    <Cell><Data ss:Type="Number">4235.6400000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">124502</Data></Cell>
+    <Cell><Data ss:Type="Number">4260.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">37371</Data></Cell>
+    <Cell><Data ss:Type="Number">1546.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">44346</Data></Cell>
+    <Cell><Data ss:Type="Number">1697.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">190253</Data></Cell>
+    <Cell><Data ss:Type="Number">8364.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">37811</Data></Cell>
+    <Cell><Data ss:Type="Number">830.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">74308</Data></Cell>
+    <Cell><Data ss:Type="Number">1880.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">35544</Data></Cell>
+    <Cell><Data ss:Type="Number">949.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">45216</Data></Cell>
+    <Cell><Data ss:Type="Number">1376.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">111780</Data></Cell>
+    <Cell><Data ss:Type="Number">3026.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">86939</Data></Cell>
+    <Cell><Data ss:Type="Number">1825.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">93661</Data></Cell>
+    <Cell><Data ss:Type="Number">1903.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">28280</Data></Cell>
+    <Cell><Data ss:Type="Number">1252.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">74899</Data></Cell>
+    <Cell><Data ss:Type="Number">2926.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">193010</Data></Cell>
+    <Cell><Data ss:Type="Number">5815.58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">61418</Data></Cell>
+    <Cell><Data ss:Type="Number">1283.6400000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">13889</Data></Cell>
+    <Cell><Data ss:Type="Number">511.05</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">156973</Data></Cell>
+    <Cell><Data ss:Type="Number">4752.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">147777</Data></Cell>
+    <Cell><Data ss:Type="Number">2691.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">105929</Data></Cell>
+    <Cell><Data ss:Type="Number">3306.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">59659</Data></Cell>
+    <Cell><Data ss:Type="Number">1727.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">157086</Data></Cell>
+    <Cell><Data ss:Type="Number">4840.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">163954</Data></Cell>
+    <Cell><Data ss:Type="Number">3559.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">132241</Data></Cell>
+    <Cell><Data ss:Type="Number">2655</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">40988</Data></Cell>
+    <Cell><Data ss:Type="Number">1512.13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">102741</Data></Cell>
+    <Cell><Data ss:Type="Number">3764.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">137537</Data></Cell>
+    <Cell><Data ss:Type="Number">5856.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">191544</Data></Cell>
+    <Cell><Data ss:Type="Number">4362.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">90636</Data></Cell>
+    <Cell><Data ss:Type="Number">2085.2600000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">169237</Data></Cell>
+    <Cell><Data ss:Type="Number">7559.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">37597</Data></Cell>
+    <Cell><Data ss:Type="Number">1326.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">117073</Data></Cell>
+    <Cell><Data ss:Type="Number">3215.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">197826</Data></Cell>
+    <Cell><Data ss:Type="Number">6166.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">41076</Data></Cell>
+    <Cell><Data ss:Type="Number">837.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">69154</Data></Cell>
+    <Cell><Data ss:Type="Number">2029.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">30160</Data></Cell>
+    <Cell><Data ss:Type="Number">643.70000000000005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">117725</Data></Cell>
+    <Cell><Data ss:Type="Number">3706.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">52799</Data></Cell>
+    <Cell><Data ss:Type="Number">1414.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">96989</Data></Cell>
+    <Cell><Data ss:Type="Number">2945.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">42117</Data></Cell>
+    <Cell><Data ss:Type="Number">1110.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">149332</Data></Cell>
+    <Cell><Data ss:Type="Number">4942.59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">40554</Data></Cell>
+    <Cell><Data ss:Type="Number">1076.8699999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">51929</Data></Cell>
+    <Cell><Data ss:Type="Number">1380.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">91991</Data></Cell>
+    <Cell><Data ss:Type="Number">2398.3000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">63175</Data></Cell>
+    <Cell><Data ss:Type="Number">1937.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">185993</Data></Cell>
+    <Cell><Data ss:Type="Number">7405.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">164616</Data></Cell>
+    <Cell><Data ss:Type="Number">3939.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">162288</Data></Cell>
+    <Cell><Data ss:Type="Number">5523.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">27711</Data></Cell>
+    <Cell><Data ss:Type="Number">904.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">173168</Data></Cell>
+    <Cell><Data ss:Type="Number">4397.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">84908</Data></Cell>
+    <Cell><Data ss:Type="Number">3087.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">103467</Data></Cell>
+    <Cell><Data ss:Type="Number">2267.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">117652</Data></Cell>
+    <Cell><Data ss:Type="Number">5148.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">14512</Data></Cell>
+    <Cell><Data ss:Type="Number">265.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">144659</Data></Cell>
+    <Cell><Data ss:Type="Number">5669.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">30619</Data></Cell>
+    <Cell><Data ss:Type="Number">863.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">50164</Data></Cell>
+    <Cell><Data ss:Type="Number">1956.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">123015</Data></Cell>
+    <Cell><Data ss:Type="Number">3651.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">161049</Data></Cell>
+    <Cell><Data ss:Type="Number">7071.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">143923</Data></Cell>
+    <Cell><Data ss:Type="Number">6208.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">125313</Data></Cell>
+    <Cell><Data ss:Type="Number">4474.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">190418</Data></Cell>
+    <Cell><Data ss:Type="Number">5697.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">18927</Data></Cell>
+    <Cell><Data ss:Type="Number">501.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">168872</Data></Cell>
+    <Cell><Data ss:Type="Number">5889.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">54796</Data></Cell>
+    <Cell><Data ss:Type="Number">2429.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">115117</Data></Cell>
+    <Cell><Data ss:Type="Number">2954.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">42906</Data></Cell>
+    <Cell><Data ss:Type="Number">1850.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">88545</Data></Cell>
+    <Cell><Data ss:Type="Number">3918.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">181123</Data></Cell>
+    <Cell><Data ss:Type="Number">7203.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">51508</Data></Cell>
+    <Cell><Data ss:Type="Number">1344.62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">101662</Data></Cell>
+    <Cell><Data ss:Type="Number">2370.5500000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">59741</Data></Cell>
+    <Cell><Data ss:Type="Number">1631.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">60895</Data></Cell>
+    <Cell><Data ss:Type="Number">2494.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">127348</Data></Cell>
+    <Cell><Data ss:Type="Number">2960.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">160333</Data></Cell>
+    <Cell><Data ss:Type="Number">4840.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">7959</Data></Cell>
+    <Cell><Data ss:Type="Number">156.41999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">12198</Data></Cell>
+    <Cell><Data ss:Type="Number">314.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">77747</Data></Cell>
+    <Cell><Data ss:Type="Number">2221.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">174718</Data></Cell>
+    <Cell><Data ss:Type="Number">7397.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">145967</Data></Cell>
+    <Cell><Data ss:Type="Number">6284.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">98064</Data></Cell>
+    <Cell><Data ss:Type="Number">3727.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">143812</Data></Cell>
+    <Cell><Data ss:Type="Number">6141.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">38613</Data></Cell>
+    <Cell><Data ss:Type="Number">1481.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">155686</Data></Cell>
+    <Cell><Data ss:Type="Number">4177.21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">45012</Data></Cell>
+    <Cell><Data ss:Type="Number">1692.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">189830</Data></Cell>
+    <Cell><Data ss:Type="Number">3517.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">155692</Data></Cell>
+    <Cell><Data ss:Type="Number">6939.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">167733</Data></Cell>
+    <Cell><Data ss:Type="Number">3562.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">116544</Data></Cell>
+    <Cell><Data ss:Type="Number">2334.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">91431</Data></Cell>
+    <Cell><Data ss:Type="Number">4092.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">101386</Data></Cell>
+    <Cell><Data ss:Type="Number">3121.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">152232</Data></Cell>
+    <Cell><Data ss:Type="Number">4386.1099999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">10690</Data></Cell>
+    <Cell><Data ss:Type="Number">461.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">141115</Data></Cell>
+    <Cell><Data ss:Type="Number">5886.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">73386</Data></Cell>
+    <Cell><Data ss:Type="Number">2650.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">102486</Data></Cell>
+    <Cell><Data ss:Type="Number">4445.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">128523</Data></Cell>
+    <Cell><Data ss:Type="Number">3335.69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">32420</Data></Cell>
+    <Cell><Data ss:Type="Number">1414.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">175833</Data></Cell>
+    <Cell><Data ss:Type="Number">6518.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">9145</Data></Cell>
+    <Cell><Data ss:Type="Number">208.09</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">94312</Data></Cell>
+    <Cell><Data ss:Type="Number">2413.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">114021</Data></Cell>
+    <Cell><Data ss:Type="Number">4592.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">188194</Data></Cell>
+    <Cell><Data ss:Type="Number">4107.8999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">197667</Data></Cell>
+    <Cell><Data ss:Type="Number">5435.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">133068</Data></Cell>
+    <Cell><Data ss:Type="Number">3040.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">188469</Data></Cell>
+    <Cell><Data ss:Type="Number">7131.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">92226</Data></Cell>
+    <Cell><Data ss:Type="Number">3099.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">64687</Data></Cell>
+    <Cell><Data ss:Type="Number">1365.03</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">59525</Data></Cell>
+    <Cell><Data ss:Type="Number">2527.4899999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">53136</Data></Cell>
+    <Cell><Data ss:Type="Number">1613.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">48482</Data></Cell>
+    <Cell><Data ss:Type="Number">2030.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">18737</Data></Cell>
+    <Cell><Data ss:Type="Number">361.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">138239</Data></Cell>
+    <Cell><Data ss:Type="Number">5358.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">184817</Data></Cell>
+    <Cell><Data ss:Type="Number">7975.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">193191</Data></Cell>
+    <Cell><Data ss:Type="Number">6643.26</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">157459</Data></Cell>
+    <Cell><Data ss:Type="Number">4946.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">104647</Data></Cell>
+    <Cell><Data ss:Type="Number">3018.54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">66191</Data></Cell>
+    <Cell><Data ss:Type="Number">2564.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">21135</Data></Cell>
+    <Cell><Data ss:Type="Number">458.33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">74630</Data></Cell>
+    <Cell><Data ss:Type="Number">2094.64</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">171052</Data></Cell>
+    <Cell><Data ss:Type="Number">7276.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">61138</Data></Cell>
+    <Cell><Data ss:Type="Number">2595.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">157826</Data></Cell>
+    <Cell><Data ss:Type="Number">5033.8599999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">128943</Data></Cell>
+    <Cell><Data ss:Type="Number">4474.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">104681</Data></Cell>
+    <Cell><Data ss:Type="Number">3458.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">49062</Data></Cell>
+    <Cell><Data ss:Type="Number">1176.5999999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">147723</Data></Cell>
+    <Cell><Data ss:Type="Number">3085.93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">151076</Data></Cell>
+    <Cell><Data ss:Type="Number">5868.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">189275</Data></Cell>
+    <Cell><Data ss:Type="Number">6009.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">163836</Data></Cell>
+    <Cell><Data ss:Type="Number">5618.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">108362</Data></Cell>
+    <Cell><Data ss:Type="Number">4131.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">33458</Data></Cell>
+    <Cell><Data ss:Type="Number">729.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">96936</Data></Cell>
+    <Cell><Data ss:Type="Number">2620.1799999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">131847</Data></Cell>
+    <Cell><Data ss:Type="Number">3005.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">94097</Data></Cell>
+    <Cell><Data ss:Type="Number">3706.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">188619</Data></Cell>
+    <Cell><Data ss:Type="Number">5957.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">53954</Data></Cell>
+    <Cell><Data ss:Type="Number">1353.38</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">133756</Data></Cell>
+    <Cell><Data ss:Type="Number">4117.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">143625</Data></Cell>
+    <Cell><Data ss:Type="Number">5903.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">57840</Data></Cell>
+    <Cell><Data ss:Type="Number">1446.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">82641</Data></Cell>
+    <Cell><Data ss:Type="Number">2621.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">76262</Data></Cell>
+    <Cell><Data ss:Type="Number">2413.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">130971</Data></Cell>
+    <Cell><Data ss:Type="Number">3878.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">61040</Data></Cell>
+    <Cell><Data ss:Type="Number">1390.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">121924</Data></Cell>
+    <Cell><Data ss:Type="Number">3938.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">36826</Data></Cell>
+    <Cell><Data ss:Type="Number">1387.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">166061</Data></Cell>
+    <Cell><Data ss:Type="Number">4599.3900000000003</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">87630</Data></Cell>
+    <Cell><Data ss:Type="Number">2758.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">16725</Data></Cell>
+    <Cell><Data ss:Type="Number">741</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">151933</Data></Cell>
+    <Cell><Data ss:Type="Number">3377.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">170122</Data></Cell>
+    <Cell><Data ss:Type="Number">4484.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">80042</Data></Cell>
+    <Cell><Data ss:Type="Number">2103.1799999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">132875</Data></Cell>
+    <Cell><Data ss:Type="Number">5150.1000000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">40610</Data></Cell>
+    <Cell><Data ss:Type="Number">1343.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">198865</Data></Cell>
+    <Cell><Data ss:Type="Number">7377.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">158205</Data></Cell>
+    <Cell><Data ss:Type="Number">5764.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">178544</Data></Cell>
+    <Cell><Data ss:Type="Number">5376.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">153695</Data></Cell>
+    <Cell><Data ss:Type="Number">6872.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">64630</Data></Cell>
+    <Cell><Data ss:Type="Number">2249.5100000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">57754</Data></Cell>
+    <Cell><Data ss:Type="Number">2400.1999999999998</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">143956</Data></Cell>
+    <Cell><Data ss:Type="Number">5586.79</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">165512</Data></Cell>
+    <Cell><Data ss:Type="Number">4189.7700000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">145360</Data></Cell>
+    <Cell><Data ss:Type="Number">4859.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">10662</Data></Cell>
+    <Cell><Data ss:Type="Number">367.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">99386</Data></Cell>
+    <Cell><Data ss:Type="Number">2506.61</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">107727</Data></Cell>
+    <Cell><Data ss:Type="Number">4657.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">67477</Data></Cell>
+    <Cell><Data ss:Type="Number">1309.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">111042</Data></Cell>
+    <Cell><Data ss:Type="Number">2070.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">184177</Data></Cell>
+    <Cell><Data ss:Type="Number">7562.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">110786</Data></Cell>
+    <Cell><Data ss:Type="Number">2667.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">62118</Data></Cell>
+    <Cell><Data ss:Type="Number">1198.3800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">79105</Data></Cell>
+    <Cell><Data ss:Type="Number">2589.98</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">162631</Data></Cell>
+    <Cell><Data ss:Type="Number">7251.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">89301</Data></Cell>
+    <Cell><Data ss:Type="Number">2432.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">154967</Data></Cell>
+    <Cell><Data ss:Type="Number">5148.3100000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">50124</Data></Cell>
+    <Cell><Data ss:Type="Number">1077.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">54974</Data></Cell>
+    <Cell><Data ss:Type="Number">1525.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">59144</Data></Cell>
+    <Cell><Data ss:Type="Number">1687.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">182702</Data></Cell>
+    <Cell><Data ss:Type="Number">4393.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">161664</Data></Cell>
+    <Cell><Data ss:Type="Number">5030.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">36186</Data></Cell>
+    <Cell><Data ss:Type="Number">956.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">27145</Data></Cell>
+    <Cell><Data ss:Type="Number">492.17</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">73585</Data></Cell>
+    <Cell><Data ss:Type="Number">2889.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">117387</Data></Cell>
+    <Cell><Data ss:Type="Number">3427.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">120582</Data></Cell>
+    <Cell><Data ss:Type="Number">4580.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">136700</Data></Cell>
+    <Cell><Data ss:Type="Number">3991.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">79033</Data></Cell>
+    <Cell><Data ss:Type="Number">1530.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">186772</Data></Cell>
+    <Cell><Data ss:Type="Number">5456.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">36434</Data></Cell>
+    <Cell><Data ss:Type="Number">1005.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">46774</Data></Cell>
+    <Cell><Data ss:Type="Number">1328.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">168362</Data></Cell>
+    <Cell><Data ss:Type="Number">4607.8999999999996</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">88945</Data></Cell>
+    <Cell><Data ss:Type="Number">2879.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">73375</Data></Cell>
+    <Cell><Data ss:Type="Number">3013.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">138807</Data></Cell>
+    <Cell><Data ss:Type="Number">3689.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">119067</Data></Cell>
+    <Cell><Data ss:Type="Number">4159.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">79238</Data></Cell>
+    <Cell><Data ss:Type="Number">3050.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">40879</Data></Cell>
+    <Cell><Data ss:Type="Number">1507.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">127403</Data></Cell>
+    <Cell><Data ss:Type="Number">3869.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">13952</Data></Cell>
+    <Cell><Data ss:Type="Number">552.92999999999995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">67706</Data></Cell>
+    <Cell><Data ss:Type="Number">3036</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">31205</Data></Cell>
+    <Cell><Data ss:Type="Number">1318.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">106243</Data></Cell>
+    <Cell><Data ss:Type="Number">3268.99</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">150150</Data></Cell>
+    <Cell><Data ss:Type="Number">2804.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">121687</Data></Cell>
+    <Cell><Data ss:Type="Number">2787.73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">187203</Data></Cell>
+    <Cell><Data ss:Type="Number">3903.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">142533</Data></Cell>
+    <Cell><Data ss:Type="Number">3819.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">62072</Data></Cell>
+    <Cell><Data ss:Type="Number">1721.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">179862</Data></Cell>
+    <Cell><Data ss:Type="Number">6434.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">23177</Data></Cell>
+    <Cell><Data ss:Type="Number">1005.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">60881</Data></Cell>
+    <Cell><Data ss:Type="Number">2731.37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">96722</Data></Cell>
+    <Cell><Data ss:Type="Number">3040.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">72172</Data></Cell>
+    <Cell><Data ss:Type="Number">2648.57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">146327</Data></Cell>
+    <Cell><Data ss:Type="Number">4817.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">157744</Data></Cell>
+    <Cell><Data ss:Type="Number">3184.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">175431</Data></Cell>
+    <Cell><Data ss:Type="Number">5866.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">22449</Data></Cell>
+    <Cell><Data ss:Type="Number">482.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">78895</Data></Cell>
+    <Cell><Data ss:Type="Number">2299.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">152708</Data></Cell>
+    <Cell><Data ss:Type="Number">6126.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">93772</Data></Cell>
+    <Cell><Data ss:Type="Number">1797.89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">163209</Data></Cell>
+    <Cell><Data ss:Type="Number">5740.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">60771</Data></Cell>
+    <Cell><Data ss:Type="Number">2669.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">135098</Data></Cell>
+    <Cell><Data ss:Type="Number">4857.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">89701</Data></Cell>
+    <Cell><Data ss:Type="Number">3911.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">53920</Data></Cell>
+    <Cell><Data ss:Type="Number">2421.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">159360</Data></Cell>
+    <Cell><Data ss:Type="Number">4443.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">164378</Data></Cell>
+    <Cell><Data ss:Type="Number">7017.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">86434</Data></Cell>
+    <Cell><Data ss:Type="Number">3887.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">133129</Data></Cell>
+    <Cell><Data ss:Type="Number">3765.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">103411</Data></Cell>
+    <Cell><Data ss:Type="Number">4318.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">179766</Data></Cell>
+    <Cell><Data ss:Type="Number">6973.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">103862</Data></Cell>
+    <Cell><Data ss:Type="Number">4274.8599999999997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">42591</Data></Cell>
+    <Cell><Data ss:Type="Number">1258.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">152350</Data></Cell>
+    <Cell><Data ss:Type="Number">3286.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">15020</Data></Cell>
+    <Cell><Data ss:Type="Number">619.44000000000005</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">34016</Data></Cell>
+    <Cell><Data ss:Type="Number">1235.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">71372</Data></Cell>
+    <Cell><Data ss:Type="Number">1378.41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">189464</Data></Cell>
+    <Cell><Data ss:Type="Number">5694.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">152475</Data></Cell>
+    <Cell><Data ss:Type="Number">6651.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">118377</Data></Cell>
+    <Cell><Data ss:Type="Number">2309.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">141383</Data></Cell>
+    <Cell><Data ss:Type="Number">3791.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">8028</Data></Cell>
+    <Cell><Data ss:Type="Number">290.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">97697</Data></Cell>
+    <Cell><Data ss:Type="Number">2530.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">189859</Data></Cell>
+    <Cell><Data ss:Type="Number">4964.8100000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">198745</Data></Cell>
+    <Cell><Data ss:Type="Number">6810.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">7102</Data></Cell>
+    <Cell><Data ss:Type="Number">230.22</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">63614</Data></Cell>
+    <Cell><Data ss:Type="Number">2384.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">108854</Data></Cell>
+    <Cell><Data ss:Type="Number">3924.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">94547</Data></Cell>
+    <Cell><Data ss:Type="Number">2881.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">39159</Data></Cell>
+    <Cell><Data ss:Type="Number">1200.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">128838</Data></Cell>
+    <Cell><Data ss:Type="Number">4793.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">79283</Data></Cell>
+    <Cell><Data ss:Type="Number">2014.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">107167</Data></Cell>
+    <Cell><Data ss:Type="Number">2532.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">102993</Data></Cell>
+    <Cell><Data ss:Type="Number">4264.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">20934</Data></Cell>
+    <Cell><Data ss:Type="Number">808.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">50602</Data></Cell>
+    <Cell><Data ss:Type="Number">1106.06</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">55825</Data></Cell>
+    <Cell><Data ss:Type="Number">1190.8599999999999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">122339</Data></Cell>
+    <Cell><Data ss:Type="Number">3433.81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">60656</Data></Cell>
+    <Cell><Data ss:Type="Number">1966.71</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">25492</Data></Cell>
+    <Cell><Data ss:Type="Number">1030</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">37435</Data></Cell>
+    <Cell><Data ss:Type="Number">723.77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">144851</Data></Cell>
+    <Cell><Data ss:Type="Number">6129.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">8393</Data></Cell>
+    <Cell><Data ss:Type="Number">229.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">184891</Data></Cell>
+    <Cell><Data ss:Type="Number">6929.16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">102754</Data></Cell>
+    <Cell><Data ss:Type="Number">4499.29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">87044</Data></Cell>
+    <Cell><Data ss:Type="Number">2428.96</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">32998</Data></Cell>
+    <Cell><Data ss:Type="Number">671.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">25745</Data></Cell>
+    <Cell><Data ss:Type="Number">500.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">11895</Data></Cell>
+    <Cell><Data ss:Type="Number">355.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">163548</Data></Cell>
+    <Cell><Data ss:Type="Number">6320.8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">114188</Data></Cell>
+    <Cell><Data ss:Type="Number">3924.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">160245</Data></Cell>
+    <Cell><Data ss:Type="Number">6709.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">188029</Data></Cell>
+    <Cell><Data ss:Type="Number">8081.49</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">194803</Data></Cell>
+    <Cell><Data ss:Type="Number">6245.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">97284</Data></Cell>
+    <Cell><Data ss:Type="Number">2509.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">112133</Data></Cell>
+    <Cell><Data ss:Type="Number">4685.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">180336</Data></Cell>
+    <Cell><Data ss:Type="Number">5544.97</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">80821</Data></Cell>
+    <Cell><Data ss:Type="Number">3235.35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">81790</Data></Cell>
+    <Cell><Data ss:Type="Number">3022.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">28765</Data></Cell>
+    <Cell><Data ss:Type="Number">1231.4000000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">23310</Data></Cell>
+    <Cell><Data ss:Type="Number">963.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">193804</Data></Cell>
+    <Cell><Data ss:Type="Number">5281.55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">179414</Data></Cell>
+    <Cell><Data ss:Type="Number">3517.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">179262</Data></Cell>
+    <Cell><Data ss:Type="Number">5794.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">93821</Data></Cell>
+    <Cell><Data ss:Type="Number">4047.72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">100948</Data></Cell>
+    <Cell><Data ss:Type="Number">2712.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">59897</Data></Cell>
+    <Cell><Data ss:Type="Number">2118.92</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">40102</Data></Cell>
+    <Cell><Data ss:Type="Number">1221.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">112130</Data></Cell>
+    <Cell><Data ss:Type="Number">4060.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">89193</Data></Cell>
+    <Cell><Data ss:Type="Number">2375.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">155105</Data></Cell>
+    <Cell><Data ss:Type="Number">3577.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">179109</Data></Cell>
+    <Cell><Data ss:Type="Number">7036.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">65081</Data></Cell>
+    <Cell><Data ss:Type="Number">2036.91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">144291</Data></Cell>
+    <Cell><Data ss:Type="Number">4261.78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">185602</Data></Cell>
+    <Cell><Data ss:Type="Number">3781.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">8270</Data></Cell>
+    <Cell><Data ss:Type="Number">315.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">131696</Data></Cell>
+    <Cell><Data ss:Type="Number">5216.74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">149243</Data></Cell>
+    <Cell><Data ss:Type="Number">6327.01</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">185261</Data></Cell>
+    <Cell><Data ss:Type="Number">6627.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">174063</Data></Cell>
+    <Cell><Data ss:Type="Number">7754.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">32432</Data></Cell>
+    <Cell><Data ss:Type="Number">950.48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">152102</Data></Cell>
+    <Cell><Data ss:Type="Number">3815.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">41360</Data></Cell>
+    <Cell><Data ss:Type="Number">977.83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">169737</Data></Cell>
+    <Cell><Data ss:Type="Number">3511.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">28612</Data></Cell>
+    <Cell><Data ss:Type="Number">552.54999999999995</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">104513</Data></Cell>
+    <Cell><Data ss:Type="Number">4343.87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">41980</Data></Cell>
+    <Cell><Data ss:Type="Number">1534.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">32693</Data></Cell>
+    <Cell><Data ss:Type="Number">1064.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">147487</Data></Cell>
+    <Cell><Data ss:Type="Number">3335.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">106566</Data></Cell>
+    <Cell><Data ss:Type="Number">2430.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">64623</Data></Cell>
+    <Cell><Data ss:Type="Number">2160.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">92758</Data></Cell>
+    <Cell><Data ss:Type="Number">2717.07</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">105850</Data></Cell>
+    <Cell><Data ss:Type="Number">3582.18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">196042</Data></Cell>
+    <Cell><Data ss:Type="Number">4196.28</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">125845</Data></Cell>
+    <Cell><Data ss:Type="Number">3877.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">37354</Data></Cell>
+    <Cell><Data ss:Type="Number">865.42</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">99168</Data></Cell>
+    <Cell><Data ss:Type="Number">2335.8000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">93823</Data></Cell>
+    <Cell><Data ss:Type="Number">2487.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">58572</Data></Cell>
+    <Cell><Data ss:Type="Number">2196.8000000000002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">120651</Data></Cell>
+    <Cell><Data ss:Type="Number">3477.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">112889</Data></Cell>
+    <Cell><Data ss:Type="Number">4500.43</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">163552</Data></Cell>
+    <Cell><Data ss:Type="Number">7074.44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">168529</Data></Cell>
+    <Cell><Data ss:Type="Number">3710.67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">61933</Data></Cell>
+    <Cell><Data ss:Type="Number">1350.88</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">87985</Data></Cell>
+    <Cell><Data ss:Type="Number">3917.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">120107</Data></Cell>
+    <Cell><Data ss:Type="Number">5164.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">31051</Data></Cell>
+    <Cell><Data ss:Type="Number">795.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">127490</Data></Cell>
+    <Cell><Data ss:Type="Number">2392.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">20947</Data></Cell>
+    <Cell><Data ss:Type="Number">729.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">6111</Data></Cell>
+    <Cell><Data ss:Type="Number">216.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">199566</Data></Cell>
+    <Cell><Data ss:Type="Number">7698.86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">55993</Data></Cell>
+    <Cell><Data ss:Type="Number">1208.3800000000001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">57134</Data></Cell>
+    <Cell><Data ss:Type="Number">2204.63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Ranger</Data></Cell>
+    <Cell><Data ss:Type="Number">154950</Data></Cell>
+    <Cell><Data ss:Type="Number">4862.0200000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">F-150</Data></Cell>
+    <Cell><Data ss:Type="Number">171982</Data></Cell>
+    <Cell><Data ss:Type="Number">3100.66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">EcoSport</Data></Cell>
+    <Cell><Data ss:Type="Number">18045</Data></Cell>
+    <Cell><Data ss:Type="Number">451.12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Brazil</Data></Cell>
+    <Cell><Data ss:Type="String">Fiesta</Data></Cell>
+    <Cell><Data ss:Type="Number">159392</Data></Cell>
+    <Cell><Data ss:Type="Number">5015.2700000000004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">China</Data></Cell>
+    <Cell><Data ss:Type="String">Endeavour</Data></Cell>
+    <Cell><Data ss:Type="Number">109912</Data></Cell>
+    <Cell><Data ss:Type="Number">3685.68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="String">Focus</Data></Cell>
+    <Cell><Data ss:Type="Number">35251</Data></Cell>
+    <Cell><Data ss:Type="Number">1135.68</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>80</Zoom>
+   <Selected/>
+   <LeftColumnVisible>6</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>22</ActiveRow>
+     <ActiveCol>16</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

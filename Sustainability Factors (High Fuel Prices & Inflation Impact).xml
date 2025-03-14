@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Year</Data></Cell>
+			<Cell><Data ss:Type="String">units_sold</Data></Cell>
+			<Cell><Data ss:Type="String">fuel_price_per_litre_usd</Data></Cell>
+			<Cell><Data ss:Type="String">inflation_percent</Data></Cell>
+			<Cell><Data ss:Type="String">Market Condition Impact</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1997</Data></Cell>
+			<Cell><Data ss:Type="Number">5428</Data></Cell>
+			<Cell><Data ss:Type="Number">1.02</Data></Cell>
+			<Cell><Data ss:Type="Number">5.95</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1998</Data></Cell>
+			<Cell><Data ss:Type="Number">10438</Data></Cell>
+			<Cell><Data ss:Type="Number">1.05</Data></Cell>
+			<Cell><Data ss:Type="Number">6.45</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+			<Cell><Data ss:Type="Number">14681</Data></Cell>
+			<Cell><Data ss:Type="Number">0.54</Data></Cell>
+			<Cell><Data ss:Type="Number">3.05</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+			<Cell><Data ss:Type="Number">15266</Data></Cell>
+			<Cell><Data ss:Type="Number">1.23</Data></Cell>
+			<Cell><Data ss:Type="Number">7.32</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2001</Data></Cell>
+			<Cell><Data ss:Type="Number">18591</Data></Cell>
+			<Cell><Data ss:Type="Number">1.14</Data></Cell>
+			<Cell><Data ss:Type="Number">4.05</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2002</Data></Cell>
+			<Cell><Data ss:Type="Number">19067</Data></Cell>
+			<Cell><Data ss:Type="Number">1.16</Data></Cell>
+			<Cell><Data ss:Type="Number">3.22</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2003</Data></Cell>
+			<Cell><Data ss:Type="Number">26176</Data></Cell>
+			<Cell><Data ss:Type="Number">1.12</Data></Cell>
+			<Cell><Data ss:Type="Number">3.81</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2004</Data></Cell>
+			<Cell><Data ss:Type="Number">30872</Data></Cell>
+			<Cell><Data ss:Type="Number">1.21</Data></Cell>
+			<Cell><Data ss:Type="Number">3.77</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2005</Data></Cell>
+			<Cell><Data ss:Type="Number">43352</Data></Cell>
+			<Cell><Data ss:Type="Number">1.26</Data></Cell>
+			<Cell><Data ss:Type="Number">4.25</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2006</Data></Cell>
+			<Cell><Data ss:Type="Number">42364</Data></Cell>
+			<Cell><Data ss:Type="Number">1.29</Data></Cell>
+			<Cell><Data ss:Type="Number">5.79</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2007</Data></Cell>
+			<Cell><Data ss:Type="Number">48237</Data></Cell>
+			<Cell><Data ss:Type="Number">1.31</Data></Cell>
+			<Cell><Data ss:Type="Number">6.37</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2008</Data></Cell>
+			<Cell><Data ss:Type="Number">29488</Data></Cell>
+			<Cell><Data ss:Type="Number">1.38</Data></Cell>
+			<Cell><Data ss:Type="Number">8.35</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2009</Data></Cell>
+			<Cell><Data ss:Type="Number">29488</Data></Cell>
+			<Cell><Data ss:Type="Number">1.23</Data></Cell>
+			<Cell><Data ss:Type="Number">10.88</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2010</Data></Cell>
+			<Cell><Data ss:Type="Number">60000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.19</Data></Cell>
+			<Cell><Data ss:Type="Number">11.99</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2010</Data></Cell>
+			<Cell><Data ss:Type="Number">23887</Data></Cell>
+			<Cell><Data ss:Type="Number">1.19</Data></Cell>
+			<Cell><Data ss:Type="Number">11.99</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2011</Data></Cell>
+			<Cell><Data ss:Type="Number">70000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.32</Data></Cell>
+			<Cell><Data ss:Type="Number">8.86</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2011</Data></Cell>
+			<Cell><Data ss:Type="Number">15000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.32</Data></Cell>
+			<Cell><Data ss:Type="Number">8.86</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2011</Data></Cell>
+			<Cell><Data ss:Type="Number">1270</Data></Cell>
+			<Cell><Data ss:Type="Number">1.32</Data></Cell>
+			<Cell><Data ss:Type="Number">8.86</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="Number">75000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.45</Data></Cell>
+			<Cell><Data ss:Type="Number">9.30</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="Number">15000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.45</Data></Cell>
+			<Cell><Data ss:Type="Number">9.30</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">1.45</Data></Cell>
+			<Cell><Data ss:Type="Number">9.30</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">77000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.36</Data></Cell>
+			<Cell><Data ss:Type="Number">10.90</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">40000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.36</Data></Cell>
+			<Cell><Data ss:Type="Number">10.90</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">12000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.36</Data></Cell>
+			<Cell><Data ss:Type="Number">10.90</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2013</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">1.36</Data></Cell>
+			<Cell><Data ss:Type="Number">10.90</Data></Cell>
+			<Cell><Data ss:Type="String">Likely Drop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">52000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">43000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">52000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">43000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">1.17</Data></Cell>
+			<Cell><Data ss:Type="Number">5.80</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">45000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">30000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">17000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1800</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">45000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">30000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">17000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="Number">1800</Data></Cell>
+			<Cell><Data ss:Type="Number">0.92</Data></Cell>
+			<Cell><Data ss:Type="Number">4.90</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">45000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.93</Data></Cell>
+			<Cell><Data ss:Type="Number">4.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">32000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.93</Data></Cell>
+			<Cell><Data ss:Type="Number">4.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">18000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.93</Data></Cell>
+			<Cell><Data ss:Type="Number">4.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="Number">2500</Data></Cell>
+			<Cell><Data ss:Type="Number">0.93</Data></Cell>
+			<Cell><Data ss:Type="Number">4.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="Number">38000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.97</Data></Cell>
+			<Cell><Data ss:Type="Number">3.33</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="Number">25000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.97</Data></Cell>
+			<Cell><Data ss:Type="Number">3.33</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="Number">20000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.97</Data></Cell>
+			<Cell><Data ss:Type="Number">3.33</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="Number">1800</Data></Cell>
+			<Cell><Data ss:Type="Number">0.97</Data></Cell>
+			<Cell><Data ss:Type="Number">3.33</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">38000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+			<Cell><Data ss:Type="Number">3.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">21000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+			<Cell><Data ss:Type="Number">3.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">19000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+			<Cell><Data ss:Type="Number">3.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">16000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+			<Cell><Data ss:Type="Number">3.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="Number">1700</Data></Cell>
+			<Cell><Data ss:Type="Number">1.09</Data></Cell>
+			<Cell><Data ss:Type="Number">3.94</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">36000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.06</Data></Cell>
+			<Cell><Data ss:Type="Number">3.73</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">18000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.06</Data></Cell>
+			<Cell><Data ss:Type="Number">3.73</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">16000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.06</Data></Cell>
+			<Cell><Data ss:Type="Number">3.73</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">15000</Data></Cell>
+			<Cell><Data ss:Type="Number">1.06</Data></Cell>
+			<Cell><Data ss:Type="Number">3.73</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+			<Cell><Data ss:Type="Number">1.06</Data></Cell>
+			<Cell><Data ss:Type="Number">3.73</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">34000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.85</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">10000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.85</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">9000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.85</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">10000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.85</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">1200</Data></Cell>
+			<Cell><Data ss:Type="Number">0.85</Data></Cell>
+			<Cell><Data ss:Type="Number">6.62</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">3800</Data></Cell>
+			<Cell><Data ss:Type="Number">0.84</Data></Cell>
+			<Cell><Data ss:Type="Number">6.12</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">1200</Data></Cell>
+			<Cell><Data ss:Type="Number">0.84</Data></Cell>
+			<Cell><Data ss:Type="Number">6.12</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">1000</Data></Cell>
+			<Cell><Data ss:Type="Number">0.84</Data></Cell>
+			<Cell><Data ss:Type="Number">6.12</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">900</Data></Cell>
+			<Cell><Data ss:Type="Number">0.84</Data></Cell>
+			<Cell><Data ss:Type="Number">6.12</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">800</Data></Cell>
+			<Cell><Data ss:Type="Number">0.84</Data></Cell>
+			<Cell><Data ss:Type="Number">6.12</Data></Cell>
+			<Cell><Data ss:Type="String">Stable</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

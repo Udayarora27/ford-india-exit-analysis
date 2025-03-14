@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Uday Arora</LastAuthor>
+  <LastSaved>2025-03-14T19:24:58Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8676</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior ss:Color="#D0D0D0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <NumberFormat ss:Format="&quot;$&quot;#,##0.00"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Index="2" ss:Width="108.6"/>
+   <Column ss:Width="95.399999999999991"/>
+   <Column ss:Width="134.4"/>
+   <Column ss:Width="78.599999999999994"/>
+   <Column ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="109.8"/>
+   <Column ss:Width="61.199999999999996"/>
+   <Row>
+    <Cell><Data ss:Type="String">year</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">fuel_price_per_litre_usd</Data></Cell>
+    <Cell><Data ss:Type="String">gst_tax_rate_percent</Data></Cell>
+    <Cell><Data ss:Type="String">ease_of_doing_business_rank</Data></Cell>
+    <Cell><Data ss:Type="String">inflation_percent</Data></Cell>
+    <Cell><Data ss:Type="String">labor_cost_index</Data></Cell>
+    <Cell><Data ss:Type="String">country</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sales in india</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1997</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.02</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">121</Data></Cell>
+    <Cell><Data ss:Type="Number">5.95</Data></Cell>
+    <Cell><Data ss:Type="Number">40</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5428</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1998</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.05</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">136</Data></Cell>
+    <Cell><Data ss:Type="Number">6.45</Data></Cell>
+    <Cell><Data ss:Type="Number">40.9</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10438</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1999</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.54</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="Number">3.05</Data></Cell>
+    <Cell><Data ss:Type="Number">41.8</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14681</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.23</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="Number">7.32</Data></Cell>
+    <Cell><Data ss:Type="Number">42.7</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15266</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2001</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.1399999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="Number">4.05</Data></Cell>
+    <Cell><Data ss:Type="Number">43.6</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18591</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2002</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.1599999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">3.22</Data></Cell>
+    <Cell><Data ss:Type="Number">44.5</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19067</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2003</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.1200000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="Number">3.81</Data></Cell>
+    <Cell><Data ss:Type="Number">45.4</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">26176</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2004</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.21</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">124</Data></Cell>
+    <Cell><Data ss:Type="Number">3.77</Data></Cell>
+    <Cell><Data ss:Type="Number">46.3</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">30872</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2005</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.26</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">4.25</Data></Cell>
+    <Cell><Data ss:Type="Number">47.2</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">43352</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2006</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.29</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell><Data ss:Type="Number">5.79</Data></Cell>
+    <Cell><Data ss:Type="Number">48.1</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">42364</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2007</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.31</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">111</Data></Cell>
+    <Cell><Data ss:Type="Number">6.37</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48237</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2008</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.38</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">122</Data></Cell>
+    <Cell><Data ss:Type="Number">8.35</Data></Cell>
+    <Cell><Data ss:Type="Number">49.9</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29488</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2009</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.23</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="Number">10.88</Data></Cell>
+    <Cell><Data ss:Type="Number">50.8</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">29488</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.19</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">135</Data></Cell>
+    <Cell><Data ss:Type="Number">11.99</Data></Cell>
+    <Cell><Data ss:Type="Number">51.7</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">83887</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2011</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.32</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">8.86</Data></Cell>
+    <Cell><Data ss:Type="Number">52.6</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86270</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2012</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.45</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">53.5</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">91500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.36</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">134</Data></Cell>
+    <Cell><Data ss:Type="Number">10.9</Data></Cell>
+    <Cell><Data ss:Type="Number">54.4</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">130500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2014</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">142</Data></Cell>
+    <Cell><Data ss:Type="Number">5.8</Data></Cell>
+    <Cell><Data ss:Type="Number">55.3</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">193000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9000000000000004</Data></Cell>
+    <Cell><Data ss:Type="Number">56.2</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">187600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2016</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.93</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="Number">4.9400000000000004</Data></Cell>
+    <Cell><Data ss:Type="Number">57.1</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">97500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.97</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">3.33</Data></Cell>
+    <Cell><Data ss:Type="Number">58</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">84800</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.0900000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="Number">3.94</Data></Cell>
+    <Cell><Data ss:Type="Number">58.9</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">95700</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2019</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1.06</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">3.73</Data></Cell>
+    <Cell><Data ss:Type="Number">59.8</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">86500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2020</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">6.62</Data></Cell>
+    <Cell><Data ss:Type="Number">60.6</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">64200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">0.84</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">6.12</Data></Cell>
+    <Cell><Data ss:Type="Number">61.3</Data></Cell>
+    <Cell><Data ss:Type="String">India</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7700</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>74</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>21</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
